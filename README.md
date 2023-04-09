@@ -1,4 +1,7 @@
 # PSX-Github
+Example from this video  
+[![Video thumbnail](https://github.com/Jade-Marker/PSX-Github/blob/main/thumbnail.png)](https://www.youtube.com/watch?v=q-jyjDSLYOQ)
+ 
  
 To compile the psx example, follow the setup found here: https://github.com/ABelliqueux/nolibgs_hello_worlds  
 
